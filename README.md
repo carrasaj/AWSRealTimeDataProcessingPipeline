@@ -1,7 +1,7 @@
 # AWS Real-Time Data Processing Pipeline
 
 ## Overview
-This project demonstrates a real-time and batch data processing pipeline built entirely on AWS. The pipeline processes real-time IoT-like streaming data, enriches it with metadata from batch data, and provides insights via Amazon QuickSight dashboards.
+This project demonstrates a real-time and batch data processing pipeline built entirely on AWS. I utilize sample data, generated from a python script for this project. The pipeline processes real-time IoT-like streaming data, enriches it with metadata from batch data, and provides insights via Amazon QuickSight dashboards. I built this as my second AWS project to gain hands on experience with real time data streams using Kinesis and to learn QuickSight and Athena.
 
 ### Key AWS Services Used
 - **Amazon Kinesis**: Captures real-time streaming data from simulated IoT devices.
